@@ -467,7 +467,7 @@ line is also supported. e.g.: ::
 
     module Foo (
       -- * Classes
-      , C(..)
+        C(..)
       -- * Types
       -- ** A data type
       , T
